@@ -1,3 +1,3 @@
 # Stone-paper-scissor-game
-python scripted
+python scripted\
 just enjoy
